@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "_colors.scss",
+        "_mixins.scss",
+        "_base.scss",
+        "_list.scss",
+        "_add.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
